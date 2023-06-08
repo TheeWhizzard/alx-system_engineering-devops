@@ -8,5 +8,5 @@ rm /tmp/my_first_directory/betty  -deletes file
 rmdir /tmp/my_first_directory - deletes directory
 cd -  -changes the working directory to the previous one
 ls -la . .. /boot - lists all files in long format
-file /tmp/iamafile - script that prints the type of the file
-In -s /bin/sh ls - creates asymbolic link 
+file /tmp/iamafile - script that prints the type of the filel
+ln -s /bin/sh ls - creates asymbolic link 
