@@ -13,4 +13,5 @@ ln -s /bin/ls __ls__ - creates a symbolic link
 cp -u *.html ../ - that copies all the HTML files from the current working directory to the parent of the working directory
 mv [[:upper:]]* /tmp/u -a script that moves all files beginning with an uppercase letter to the directory
 rm *~ -a script that deletes all files in the current working directory that end with the character
-mkdir -p welcome/to/school - a script that creates the directories 
+mkdir -p welcome/to/school - a script that creates the directories
+ls -xamp -a command that lists all the files and directories of the current directory 
