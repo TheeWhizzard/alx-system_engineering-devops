@@ -10,3 +10,4 @@ cd -  -changes the working directory to the previous one
 ls -la . .. /boot - lists all files in long format
 file /tmp/iamafile - script that prints the type of the file
 ln -s /bin/ls __ls__ - creates a symbolic link
+cp -u *.html ../ - that copies all the HTML files from the current working directory to the parent of the working directory
