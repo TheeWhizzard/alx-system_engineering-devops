@@ -5,3 +5,4 @@ ls -l -current directory contents in a long format
 ls -la - display content of a file including hidden files
 ls --------i-------- - display current directory content
 rm /tmp/my_first_directory/betty  -deletes file
+rmdir /tmp/my_first_directory - deletes directory
